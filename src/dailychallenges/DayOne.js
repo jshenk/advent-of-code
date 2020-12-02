@@ -211,14 +211,12 @@ function DayOne() {
     <div>
       <h2>Day One</h2>
       <div>
-        Question: Find the two entries that sum to 2020; what do you get if you
-        multiply them together?
+        <strong>Question:</strong> Find the two entries that sum to 2020; what
+        do you get if you multiply them together?
       </div>
-      <div>Answer: {finalNumberPartA}</div>
       <div>
-        Question: what is the product of the three entries that sum to 2020?
+        <strong>Answer:</strong> {finalNumberPartA}
       </div>
-      <div>Answer: </div>
     </div>
   );
 }
